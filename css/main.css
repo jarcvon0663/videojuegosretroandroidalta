@@ -129,6 +129,27 @@ aside {
     font-size: .85rem;
 }
 
+.search-bar {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#search-input {
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 1rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    background-color: var(--clr-main);
+    color: var(--clr-white);
+    border: none;
+    cursor: pointer;
+    border-radius: 1rem;
+    transition: background-color 0.2s, color 0.2s;
+}
+
 main {
     background-color: var(--clr-white);
     margin: 1rem;
