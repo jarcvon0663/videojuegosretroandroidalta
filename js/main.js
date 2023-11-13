@@ -124,3 +124,11 @@ function actualizarNumerito() {
     let nuevoNumerito = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
     numerito.innerText = nuevoNumerito;
 }
+
+function buscarJuegos() {
+    const input = document.getElementById("search-input");
+    const term = input.value.toLowerCase();
+    const juegosFiltrados = productos.filter(juego => juego.titulo.toLowerCase().includes(term));
+
+    cargarProductos(juegosFiltrados);
+}
