@@ -1,5 +1,15 @@
 [
     {
+        "id": "abrigo-001",
+        "titulo": "Dragon Ball Z BT3",
+        "imagen": "./img/pc/dbz.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
         "id": "abrigo-01",
         "titulo": "Need for Speed Urderground 2",
         "imagen": "./img/pc/01.jpg",
@@ -61,7 +71,7 @@
     },
     {
         "id": "abrigo-07",
-        "titulo": "God of War 2",
+        "titulo": "God of War",
         "imagen": "./img/pc/gow2.jpg",
         "categoria": {
             "nombre": "Bajos requisitos",
