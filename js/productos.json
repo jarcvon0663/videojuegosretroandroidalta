@@ -1,5 +1,75 @@
 [
     {
+        "id": "abrigo-a01",
+        "titulo": "Mafia",
+        "imagen": "./img/pc/mafia.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-a02",
+        "titulo": "Grand Theft Auto 3",
+        "imagen": "./img/pc/gta3.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-a03",
+        "titulo": "El padrino",
+        "imagen": "./img/pc/padrino.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-a04",
+        "titulo": "The King of Figthers 2002",
+        "imagen": "./img/pc/kof.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-a05",
+        "titulo": "Super Bikes",
+        "imagen": "./img/pc/bikes.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-a06",
+        "titulo": "Naruto",
+        "imagen": "./img/pc/naruto.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-a07",
+        "titulo": "Rally WRC 4",
+        "imagen": "./img/pc/wrc.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
         "id": "abrigo-001",
         "titulo": "Dragon Ball Z BT3",
         "imagen": "./img/pc/dbz.jpg",
