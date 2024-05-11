@@ -33,6 +33,7 @@ function cargarProductos(productosElegidos) {
             <div class="producto-detalles">
                 <h3 class="producto-titulo">${producto.titulo}</h3>
                 <p class="producto-precio">$${producto.precio}</p>
+                <a class="producto-trailer" href="${producto.trailer}" target="_blank"><img src="./img/trailer.png" alt="Trailer"></a>
                 <button class="producto-agregar" id="${producto.id}">Agregar</button>
             </div>
         `;
@@ -131,4 +132,20 @@ function buscarJuegos() {
     const juegosFiltrados = productos.filter(juego => juego.titulo.toLowerCase().includes(term));
 
     cargarProductos(juegosFiltrados);
+}
+
+function ordenarPorPopularidad() {
+    const juegosOrdenados = productos.sort((a, b) => {
+        // Ordenar por ID
+        return a.id.localeCompare(b.id);
+    });
+    cargarProductos(juegosOrdenados);
+}
+
+function ordenarAlfabeticamente() {
+    const juegosOrdenados = productos.sort((a, b) => {
+        // Ordenar por título
+        return a.titulo.localeCompare(b.titulo);
+    });
+    cargarProductos(juegosOrdenados);
 }

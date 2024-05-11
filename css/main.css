@@ -134,6 +134,11 @@ aside {
     text-align: center;
 }
 
+.botones {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
 #search-input {
     padding: 0.5rem;
     margin-right: 0.5rem;

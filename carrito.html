@@ -33,12 +33,12 @@
                 <ul>
                     <li>
                         <a class="boton-menu boton-volver" href="./index.html">
-                            <i class="bi bi-arrow-return-left"></i> Volver al catálogo
+                            <i class="bi bi-arrow-return-left"></i> Seguir comprando
                         </a>
                     </li>
                     <li>
                         <a class="boton-menu boton-carrito active" href="./carrito.html">
-                            <i class="bi bi-cart-fill"></i> Hacer pago $
+                            <i class="bi bi-cart-fill"></i> Carrito
                         </a>
                     </li>
                 </ul>
@@ -48,7 +48,7 @@
             </footer>
         </aside>
         <main>
-            <h2 class="titulo-principal">Hacer pago $</h2>
+            <h2 class="titulo-principal">Carrito de compras</h2>
             <div class="contenedor-carrito">
                 <p id="carrito-vacio" class="carrito-vacio">Tu carrito de compras está vacío. <i class="bi bi-emoji-frown"></i></p>
 
@@ -58,7 +58,7 @@
 
                 <div id="carrito-acciones" class="carrito-acciones disabled">
                     <div class="carrito-acciones-izquierda">
-                        <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
+                        <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito de compras</button>
                     </div>
                     <div class="carrito-acciones-derecha">
                         <div class="carrito-acciones-total">
@@ -69,7 +69,8 @@
                 </div>
 
                 <section class="payment-method">
-                    <h2 class="titulo-principal" id="numero-telefono">Puedes pagar con Nequi o Daviplata al número
+                    <h2 class="titulo-principal" id="numero-telefono">Puedes pagar con Nequi, Daviplata o TransfiYA al
+                        número
                         3143394021 <button onclick="copiarAlPortapapeles()" class="copiar">Copiar #</button></h2>
                     <script>
                         function copiarAlPortapapeles() {
@@ -94,11 +95,18 @@
                             alert("Número de teléfono copiado al portapapeles: " + numeroTelefono);
                         }
                     </script>
+                    <h2 class="titulo-principal">o desde cualquier banco usando <a
+                            href="https://recarga.nequi.com.co/bdigitalpsl/?&_ga=2.189700267.1416431342.1700047997-1157613959.1695329771#!/"
+                            target="_blank"><img src="./img/pse.png" alt="" style="width: 150px; height: 60px;"></a>
+                    </h2>
                     <a href="https://api.whatsapp.com/send?phone=573042672810&text=Hola,%20te%20envío%20el%20comprobante%20de%20la%20consignación"
                         target="_blank">
-                        <img style="height: 100px; width: 320px;" src="./img/whatsapp.png" alt="WhatsApp">
+                        <img style="height: 100px; width: 300px;" src="./img/whatsapp.png" alt="WhatsApp">
                         <br>
-                        <p>Envia el comprobante de pago a nuestro whatsapp indicando el nombre del videojuego y te llegará en respuesta el enlace de descarga del juego y demás archivos necesarios, al descargarlos haremos videollamada para guiarte en la instalación y configuración del juego en tu celular.</p>
+                        <p>Envia el comprobante de pago a nuestro whatsapp indicando el nombre del videojuego y te
+                            llegará en respuesta el enlace de descarga del juego y demás archivos necesarios, al
+                            descargarlos haremos videollamada para guiarte en la instalación y configuración del juego
+                            en tu celular.</p>
                     </a>
                 </section>
 
@@ -107,7 +115,6 @@
 
             </div>
         </main>
-        <a href="./index.html" class="boton-flotante">Volver al catálogo</a>
     </div>
 
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
