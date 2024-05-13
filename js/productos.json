@@ -1,1633 +1,2411 @@
 [
     {
-        "id": "abrigo-a01",
-        "titulo": "Mafia",
-        "imagen": "./img/pc/mafia.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
+      "id": "abrigo-100",
+      "titulo": "Black",
+      "imagen": "./img/pc/black.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-a02",
-        "titulo": "Grand Theft Auto 3",
-        "imagen": "./img/pc/gta3.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-101",
+      "titulo": "Grand Theft Auto San Andreas",
+      "imagen": "./img/pc/gtasa.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-a03",
-        "titulo": "El padrino",
-        "imagen": "./img/pc/padrino.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-102",
+      "titulo": "Grand Theft Auto 3",
+      "imagen": "./img/pc/gta3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-a04",
-        "titulo": "The King of Figthers 2002",
-        "imagen": "./img/pc/kof2002.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-103",
+      "titulo": "Need for Speed Most Wanted",
+      "imagen": "./img/pc/nfsmw.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-a05",
-        "titulo": "Super Bikes",
-        "imagen": "./img/pc/bikes.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-104",
+      "titulo": "Need for Speed Underground",
+      "imagen": "./img/pc/nfsu.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-a06",
-        "titulo": "Naruto",
-        "imagen": "./img/pc/naruto.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-105",
+      "titulo": "Need for Speed Underground 2",
+      "imagen": "./img/pc/nfsu2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-a07",
-        "titulo": "Rally WRC 4",
-        "imagen": "./img/pc/wrc.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-106",
+      "titulo": "Resident Evil 4",
+      "imagen": "./img/pc/residentevil4.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-001",
-        "titulo": "Dragon Ball Z BT3",
-        "imagen": "./img/pc/dbz.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-107",
+      "titulo": "Spiderman Ultimate",
+      "imagen": "./img/pc/spidermanultimate.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-01",
-        "titulo": "Need for Speed Urderground 2",
-        "imagen": "./img/pc/nfsu2.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-108",
+      "titulo": "God of War 1",
+      "imagen": "./img/pc/gow1.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-02",
-        "titulo": "Need for Speed Most Wanted",
-        "imagen": "./img/pc/nfsmw.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-109",
+      "titulo": "Dragon ball z budokai tenkaichi 3",
+      "imagen": "./img/pc/dbz.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-03",
-        "titulo": "Grand Theft Auto San Andreas",
-        "imagen": "./img/pc/gtasa.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-110",
+      "titulo": "Def Jam Fight NY",
+      "imagen": "./img/pc/DJFNY.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-04",
-        "titulo": "Grand Theft Auto Vice City",
-        "imagen": "./img/pc/gtavc.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-111",
+      "titulo": "Darkwatch",
+      "imagen": "./img/pc/darkwatch.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-05",
-        "titulo": "Black",
-        "imagen": "./img/pc/black.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-112",
+      "titulo": "Crazy Taxi",
+      "imagen": "./img/pc/crazy-taxi.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-06",
-        "titulo": "God of War",
-        "imagen": "./img/pc/gow1.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-113",
+      "titulo": "Conflict Vietnam",
+      "imagen": "./img/pc/conflictvietnam.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-07",
-        "titulo": "God of War",
-        "imagen": "./img/pc/gow2.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-114",
+      "titulo": "Burnout 3 takedown",
+      "imagen": "./img/pc/burnout-3-takedown.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-08",
-        "titulo": "Def Jam Fight NY",
-        "imagen": "./img/pc/DJFNY.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-115",
+      "titulo": "Dragon ball z budokai tenkaichi 2",
+      "imagen": "./img/pc/dragon-ball-z-budokai-tenkaichi-2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-09",
-        "titulo": "Conflict Vietnam",
-        "imagen": "./img/pc/conflictvietnam.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-116",
+      "titulo": "Dragon ball z budokai tenkaichi",
+      "imagen": "./img/pc/dragon-ball-z-budokai-tenkaichi.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-10",
-        "titulo": "Gran Turismo 4",
-        "imagen": "./img/pc/gt4.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-117",
+      "titulo": "Driver 3",
+      "imagen": "./img/pc/driv3r.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-11",
-        "titulo": "Need for Speed Urderground",
-        "imagen": "./img/pc/nfsu.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-118",
+      "titulo": "Freedom Fighters",
+      "imagen": "./img/pc/freedomfighters.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-12",
-        "titulo": "Freedom Fighters",
-        "imagen": "./img/pc/freedomfighters.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+      "id": "abrigo-119",
+      "titulo": "Ghost Recon AW",
+      "imagen": "./img/pc/GhostReconAW.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
     },
     {
-        "id": "abrigo-200",
-        "titulo": "007 Goldeneye",
-        "imagen": "./img/pc/goldeneye.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-201",
-        "titulo": "Pokemon Stadium",
-        "imagen": "./img/pc/pokemonstadium.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-202",
-        "titulo": "Pepsiman",
-        "imagen": "./img/pc/132.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-203",
-        "titulo": "Resident Evil 2",
-        "imagen": "./img/pc/46.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-204",
-        "titulo": "Resident Evil 3",
-        "imagen": "./img/pc/47.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-205",
-        "titulo": "Crash Bandicoot",
-        "imagen": "./img/pc/032.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-206",
-        "titulo": "Crash Team Racing",
-        "imagen": "./img/pc/57.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-207",
-        "titulo": "Pokemon",
-        "imagen": "./img/pc/pokemon.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-208",
-        "titulo": "Mario Kart",
-        "imagen": "./img/pc/mario kart.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-209",
-        "titulo": "Driver 2",
-        "imagen": "./img/pc/59.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-210",
-        "titulo": "Medal of Honor Underground",
-        "imagen": "./img/pc/42.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-211",
-        "titulo": "Nascar Rumble",
-        "imagen": "./img/pc/NascarRumble.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-212",
-        "titulo": "PES 2002",
-        "imagen": "./img/pc/PES2002.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-213",
-        "titulo": "Soccer pro 98",
-        "imagen": "./img/pc/pro98.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-214",
-        "titulo": "Resident evil survivor",
-        "imagen": "./img/pc/ResidentEvilSurvivor.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-215",
-        "titulo": "Vigilante 8",
-        "imagen": "./img/pc/Vigilante8.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-216",
-        "titulo": "Vigilante 8 2nd Off",
-        "imagen": "./img/pc/Vigilante82.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-217",
-        "titulo": "Yu-Gi-Oh",
-        "imagen": "./img/pc/yugioh.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-218",
-        "titulo": "Twisted Metal 4",
-        "imagen": "./img/pc/TwistedMetal4.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-219",
-        "titulo": "Dragon Ball GT",
-        "imagen": "./img/pc/DragonBallGT.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-220",
-        "titulo": "Dragon Ball Z.",
-        "imagen": "./img/pc/DragonBallZ.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-221",
-        "titulo": "Metal Slug X",
-        "imagen": "./img/pc/43.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-222",
-        "titulo": "Mortal Kombat Trilogy",
-        "imagen": "./img/pc/112.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-223",
-        "titulo": "Medal of honor",
-        "imagen": "./img/pc/MedalOfHonor.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-224",
-        "titulo": "Mortal Kombat 4",
-        "imagen": "./img/pc/MortalKombat4.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-225",
-        "titulo": "Need for Speed High Stakes",
-        "imagen": "./img/pc/nfshs.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-226",
-        "titulo": "Jackie Chan Stuntmaster",
-        "imagen": "./img/pc/41.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-227",
-        "titulo": "Driver 1",
-        "imagen": "./img/pc/58.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-228",
-        "titulo": "CART World Series",
-        "imagen": "./img/pc/cart.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-229",
-        "titulo": "FIFA 2005",
-        "imagen": "./img/pc/fifa.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-230",
-        "titulo": "Silent Hill",
-        "imagen": "./img/pc/49.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-231",
-        "titulo": "Spider-Man",
-        "imagen": "./img/pc/50.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-232",
-        "titulo": "Coyote Sheep Raider",
-        "imagen": "./img/pc/coyote.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-233",
-        "titulo": "Gran Turismo 2",
-        "imagen": "./img/pc/GT2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-234",
-        "titulo": "Gran Turismo",
-        "imagen": "./img/pc/GT.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-235",
-        "titulo": "Hercules",
-        "imagen": "./img/pc/Hercules.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-236",
-        "titulo": "Soul Reaver",
-        "imagen": "./img/pc/soulreaver.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-237",
-        "titulo": "Spiderman 2",
-        "imagen": "./img/pc/spiderman2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-238",
-        "titulo": "Tarzan",
-        "imagen": "./img/pc/Tarzan.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-239",
-        "titulo": "Toy Story 2",
-        "imagen": "./img/pc/ToyStory2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-240",
-        "titulo": "Bugs Bunny y Taz",
-        "imagen": "./img/pc/55.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-241",
-        "titulo": "Road Rash Jailbreak",
-        "imagen": "./img/pc/48.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-242",
-        "titulo": "Crash 2",
-        "imagen": "./img/pc/Crash2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-243",
-        "titulo": "Crash 3",
-        "imagen": "./img/pc/Crash3.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-244",
-        "titulo": "Digimon",
-        "imagen": "./img/pc/Digimon.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-245",
-        "titulo": "Formula 1 2001",
-        "imagen": "./img/pc/Formula12001.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-246",
-        "titulo": "King Of Fighters 97",
-        "imagen": "./img/pc/KOF97.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-247",
-        "titulo": "Los Simpsons",
-        "imagen": "./img/pc/LosSimsonpPelea.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-248",
-        "titulo": "OddWorld",
-        "imagen": "./img/pc/OddWorld.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-249",
-        "titulo": "Spyro 2",
-        "imagen": "./img/pc/Spyro2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-250",
-        "titulo": "Spyro",
-        "imagen": "./img/pc/Spyro.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-251",
-        "titulo": "Superbike 2000",
-        "imagen": "./img/pc/Superbike2000.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-252",
-        "titulo": "Tekken 3",
-        "imagen": "./img/pc/Tekken3.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-253",
-        "titulo": "Tony Hawk 4",
-        "imagen": "./img/pc/TonyHawk4.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-254",
-        "titulo": "Tony Hawk 3",
-        "imagen": "./img/pc/TonyHawk3.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-255",
-        "titulo": "Tony Hawk 2",
-        "imagen": "./img/pc/TonyHawk2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-256",
-        "titulo": "Tony Hawk",
-        "imagen": "./img/pc/TonyHawk.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-257",
-        "titulo": "Tomb Raider 3",
-        "imagen": "./img/pc/TombRaider3.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-258",
-        "titulo": "BMX",
-        "imagen": "./img/pc/BMX.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-259",
-        "titulo": "Bloody Roar 2",
-        "imagen": "./img/pc/BloodyRoar2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-260",
-        "titulo": "Army Men TA",
-        "imagen": "./img/pc/ArmyMenTA.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-261",
-        "titulo": "Destruction Derby",
-        "imagen": "./img/pc/DestructionDerby.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-262",
-        "titulo": "Duke Nukem",
-        "imagen": "./img/pc/DukeNuke.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-263",
-        "titulo": "King Of Fighters 96",
-        "imagen": "./img/pc/KOF96.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-264",
-        "titulo": "King Of Fighters 95",
-        "imagen": "./img/pc/KOF95.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-265",
-        "titulo": "King Of Fighters 99",
-        "imagen": "./img/pc/KOF99.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-266",
-        "titulo": "Marvel VS Street Fighter.jpg",
-        "imagen": "./img/pc/MarvelVSSF.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-267",
-        "titulo": "Metal Gear ",
-        "imagen": "./img/pc/MetalGear.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-268",
-        "titulo": "Spec Ops Ranger Elite",
-        "imagen": "./img/pc/specops.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-269",
-        "titulo": "Spec Ops Cover Assault",
-        "imagen": "./img/pc/specopsca.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-270",
-        "titulo": "V-Rally 2 Championship",
-        "imagen": "./img/pc/vrally2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-271",
-        "titulo": "Parasite Eve",
-        "imagen": "./img/pc/parasite.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-272",
-        "titulo": "Super Mario 64",
-        "imagen": "./img/pc/mario64.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 7000
-      },
-      {
-        "id": "abrigo-273",
-        "titulo": "007 Tomorrow Never Dies",
-        "imagen": "./img/pc/54.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-274",
-        "titulo": "Capcom vs SNK",
-        "imagen": "./img/pc/56.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-275",
-        "titulo": "Harry Potter y la Cámara de los Secretos",
-        "imagen": "./img/pc/40.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-276",
-        "titulo": "Harry Potter y la Piedra Filosofal",
-        "imagen": "./img/pc/60.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-277",
-        "titulo": "NASCAR Thunder 2004",
-        "imagen": "./img/pc/44.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-278",
-        "titulo": "Need for Speed Porsche",
-        "imagen": "./img/pc/45.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-279",
-        "titulo": "Syphon Filter",
-        "imagen": "./img/pc/51.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-280",
-        "titulo": "Syphon Filter 3",
-        "imagen": "./img/pc/52.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "URL_DEL_VIDEO_TRAILER"
-      },
-      {
-        "id": "abrigo-281",
-        "titulo": "007 El mundo no basta",
-        "imagen": "./img/pc/007MundoNoBasta.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-282",
-        "titulo": "Ace Combat 3",
-        "imagen": "./img/pc/AceCombat3.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-283",
-        "titulo": "Alien",
-        "imagen": "./img/pc/Alien.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-284",
-        "titulo": "Alone in the dark",
-        "imagen": "./img/pc/AloneInTheDark.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-285",
-        "titulo": "Army Men 3d",
-        "imagen": "./img/pc/ArmyMen3D.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-286",
-        "titulo": "Army Men Air Attack",
-        "imagen": "./img/pc/ArmyMenAA.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-287",
-        "titulo": "Army Men Air Attack 2",
-        "imagen": "./img/pc/ArmyMenAA2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-288",
-        "titulo": "Army Men Lock Load",
-        "imagen": "./img/pc/ArmyMenLL.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-289",
-        "titulo": "Army Men Land Sea Air",
-        "imagen": "./img/pc/ArmyMenLSA.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-290",
-        "titulo": "Army Men OM",
-        "imagen": "./img/pc/ArmyMenOM.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-291",
-        "titulo": "Army Men OS",
-        "imagen": "./img/pc/ArmyMenOS.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-292",
-        "titulo": "Army Men SH",
-        "imagen": "./img/pc/ArmyMenSH.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-293",
-        "titulo": "Army Men SH2",
-        "imagen": "./img/pc/ArmyMenSH2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-294",
-        "titulo": "Casper",
-        "imagen": "./img/pc/casper.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-295",
-        "titulo": "Crash Bash ",
-        "imagen": "./img/pc/CrashBash.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-296",
-        "titulo": "Creatures 2",
-        "imagen": "./img/pc/Creatures2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-297",
-        "titulo": "Diablo",
-        "imagen": "./img/pc/Diablo.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-298",
-        "titulo": "Digimon 2003",
-        "imagen": "./img/pc/Digimon2003.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-299",
-        "titulo": "Dino Crisis 1",
-        "imagen": "./img/pc/DinoCrisis1.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-300",
-        "titulo": "Dino Crisis 2",
-        "imagen": "./img/pc/dinocrisis2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-301",
-        "titulo": "Eagle One",
-        "imagen": "./img/pc/EagleOne.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-302",
-        "titulo": "Fear Effect 2",
-        "imagen": "./img/pc/FearEffect2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-303",
-        "titulo": "ISS 2",
-        "imagen": "./img/pc/ISS2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-304",
-        "titulo": "ISS club",
-        "imagen": "./img/pc/ISSclub.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-305",
-        "titulo": "Star Wars Jedi",
-        "imagen": "./img/pc/Jedi.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-306",
-        "titulo": "Le Mans 24 hours",
-        "imagen": "./img/pc/LeMans.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-307",
-        "titulo": "Guerra de Marranos",
-        "imagen": "./img/pc/Marranos.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-308",
-        "titulo": "Mision Imposible",
-        "imagen": "./img/pc/MisionImposible.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-309",
-        "titulo": "Monster Inc",
-        "imagen": "./img/pc/MonsterINC.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-310",
-        "titulo": "Parasite Eve 2",
-        "imagen": "./img/pc/ParasiteEve2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-311",
-        "titulo": "Police Chases",
-        "imagen": "./img/pc/PoliceChases.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-312",
-        "titulo": "Quinto Elemento",
-        "imagen": "./img/pc/QuintoElemento.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-313",
-        "titulo": "Collin Mc Crae Rally",
-        "imagen": "./img/pc/rallycm.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-314",
-        "titulo": "Rayman",
-        "imagen": "./img/pc/Rayman.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-315",
-        "titulo": "Rayman 2",
-        "imagen": "./img/pc/Rayman2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-316",
-        "titulo": "Resident Evil Directors cut",
-        "imagen": "./img/pc/ResidentEvilDC.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-317",
-        "titulo": "Samurai Shodown",
-        "imagen": "./img/pc/Samurai.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-318",
-        "titulo": "Star Wars",
-        "imagen": "./img/pc/StarWars.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-319",
-        "titulo": "Street fighter",
-        "imagen": "./img/pc/streetfighter.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-320",
-        "titulo": "Street fighter Alpha 3",
-        "imagen": "./img/pc/streetfighterAlpha3.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-321",
-        "titulo": "Syphon Filter 2",
-        "imagen": "./img/pc/SyphonFilter2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-322",
-        "titulo": "Test Drive 6",
-        "imagen": "./img/pc/TestDrive6.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-323",
-        "titulo": "TOCA",
-        "imagen": "./img/pc/TOCA.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-324",
-        "titulo": "Tomb Raider 2",
-        "imagen": "./img/pc/TombRaider2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-325",
-        "titulo": "Toy story racer",
-        "imagen": "./img/pc/toystoryracer.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-326",
-        "titulo": "Twisted Metal",
-        "imagen": "./img/pc/TwistedMetal.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-327",
-        "titulo": "Twisted Metal 2",
-        "imagen": "./img/pc/Twistedmetal2.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-328",
-        "titulo": "Twisted Metal 3",
-        "imagen": "./img/pc/TwistedMetal3.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-329",
-        "titulo": "Vampire Hunter",
-        "imagen": "./img/pc/VampireHunter.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PCbaja"
-        },
-        "precio": 7000,
-        "trailer": "pendiente"
-      },
-      {
-        "id": "abrigo-330",
-        "titulo": "Acceso a todo el catálogo",
-        "imagen": "./img/pc/todos.jpg",
-        "categoria": {
-          "nombre": "Bajos requisitos",
-          "id": "PC"
-        },
-        "precio": 30000
-      }
-]
+      "id": "abrigo-120",
+      "titulo": "God of War 2",
+      "imagen": "./img/pc/gow2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-121",
+      "titulo": "Gran Turismo 4",
+      "imagen": "./img/pc/gt4.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-122",
+      "titulo": "Grand Theft Auto Vice City",
+      "imagen": "./img/pc/gtavc.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-123",
+      "titulo": "Grand Theft Auto Liberty City Stories",
+      "imagen": "./img/pc/gtalcs.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-124",
+      "titulo": "Grand Theft Auto Vice City Stories",
+      "imagen": "./img/pc/gtavcs.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-125",
+      "titulo": "The King of Fighters 2002",
+      "imagen": "./img/pc/kof2002.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-126",
+      "titulo": "Mafia",
+      "imagen": "./img/pc/mafia.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-127",
+      "titulo": "Metal Gear Solid 2 sons of liberty",
+      "imagen": "./img/pc/metal-gear-solid-2-sons-of-liberty.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-128",
+      "titulo": "Need for Speed Carbon",
+      "imagen": "./img/pc/nfsc.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-129",
+      "titulo": "Need for Speed Pro Street",
+      "imagen": "./img/pc/nfsprostreet.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-130",
+      "titulo": "Need for Spped Undercover",
+      "imagen": "./img/pc/nfsundercover.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-131",
+      "titulo": "PES 2014",
+      "imagen": "./img/pc/PES2014.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-132",
+      "titulo": "Return to the Castle Wolfenstein",
+      "imagen": "./img/pc/return.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-133",
+      "titulo": "Silent Hill 2",
+      "imagen": "./img/pc/silenthill2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-134",
+      "titulo": "Simpsons Hit and Run",
+      "imagen": "./img/pc/SimpsonsHR.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-135",
+      "titulo": "Tekken 5",
+      "imagen": "./img/pc/Tekken5.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-136",
+      "titulo": "True Crime NY",
+      "imagen": "./img/pc/TrueCrimeNY.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-137",
+      "titulo": "True Crime LA",
+      "imagen": "./img/pc/TrueCrimeLA.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-138",
+      "titulo": "18 wheeler american",
+      "imagen": "./img/pc/18-wheeler-american-pro-trucker.jpeg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-139",
+      "titulo": "187 ride or ride",
+      "imagen": "./img/pc/187-ride-or-ride.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-140",
+      "titulo": "Ace combat 5",
+      "imagen": "./img/pc/ace-combat-5.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-141",
+      "titulo": "Airborne troops countdown to d day",
+      "imagen": "./img/pc/airborne-troops-countdown-to-d-day.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-142",
+      "titulo": "Bad boys miami takedown",
+      "imagen": "./img/pc/bad-boys-miami-takedown.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-143",
+      "titulo": "Batman begins",
+      "imagen": "./img/pc/batman-begins.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-144",
+      "titulo": "Bikes",
+      "imagen": "./img/pc/bikes.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-145",
+      "titulo": "Blade 2",
+      "imagen": "./img/pc/blade2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-146",
+      "titulo": "Burnout 2 point of impact",
+      "imagen": "./img/pc/burnout-2-point-of-impact.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-147",
+      "titulo": "Burnout",
+      "imagen": "./img/pc/burnout-ps2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-148",
+      "titulo": "Call of duty 3",
+      "imagen": "./img/pc/call-of-duty-3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-149",
+      "titulo": "Cars",
+      "imagen": "./img/pc/cars.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-150",
+      "titulo": "Cold Fear",
+      "imagen": "./img/pc/ColdFear.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-151",
+      "titulo": "Constantine",
+      "imagen": "./img/pc/constantine.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-152",
+      "titulo": "Driver parallel lines",
+      "imagen": "./img/pc/driver-parallel-lines.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-153",
+      "titulo": "Fifa 14",
+      "imagen": "./img/pc/Fifa14.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-154",
+      "titulo": "Gran Turismo 3",
+      "imagen": "./img/pc/gran-turismo-3-a-spec.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-155",
+      "titulo": "Guitar Hero metallica",
+      "imagen": "./img/pc/guitar-hero-metallica.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-156",
+      "titulo": "Guitar Hero world tour",
+      "imagen": "./img/pc/guitar-hero-world-tour.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-157",
+      "titulo": "Harry Potter y la orden del fenix",
+      "imagen": "./img/pc/harry-potter-y-la-orden-del-fenix.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-158",
+      "titulo": "Hitman contracts",
+      "imagen": "./img/pc/hitman-contracts.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-159",
+      "titulo": "Hitman 2 Silent Assassin",
+      "imagen": "./img/pc/Hitman2SA.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-160",
+      "titulo": "Indiana Jones and the emperors tomb",
+      "imagen": "./img/pc/indiana-jones-and-the-emperors-tomb.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-161",
+      "titulo": "Lord of the Rings the return of the king",
+      "imagen": "./img/pc/lord-of-the-rings-the-return-of-the-king.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-162",
+      "titulo": "Los Increibles",
+      "imagen": "./img/pc/los-increibles.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-163",
+      "titulo": "Max payne 2",
+      "imagen": "./img/pc/max-payne-2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-164",
+      "titulo": "Medal of honor european assault",
+      "imagen": "./img/pc/medal-of-honor-european-assault.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-165",
+      "titulo": "Medal of honor frontline",
+      "imagen": "./img/pc/medal-of-honor-frontline.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-166",
+      "titulo": "Medal of honor rising sun",
+      "imagen": "./img/pc/medal-of-honor-rising-sun.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-167",
+      "titulo": "Medal of honor vanguard",
+      "imagen": "./img/pc/medal-of-honor-vanguard.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-168",
+      "titulo": "Midnight Club 3",
+      "imagen": "./img/pc/MidnightClub3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-169",
+      "titulo": "Mortal Kombat Deception",
+      "imagen": "./img/pc/mortalkombatdeception.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-170",
+      "titulo": "Naruto",
+      "imagen": "./img/pc/naruto.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-171",
+      "titulo": "Nascar 2007",
+      "imagen": "./img/pc/Nascar2007.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-172",
+      "titulo": "Padrino",
+      "imagen": "./img/pc/padrino.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-173",
+      "titulo": "Piratas del Caribe",
+      "imagen": "./img/pc/PiratasdelCaribe.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-174",
+      "titulo": "Principe de Persia the two thrones",
+      "imagen": "./img/pc/prince-of-persia-the-two-thrones.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-175",
+      "titulo": "Principe de Persia Arenas del Tiempo",
+      "imagen": "./img/pc/PrincipedePersiaST.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-176",
+      "titulo": "Scarface",
+      "imagen": "./img/pc/Scarface.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-177",
+      "titulo": "Silent Hill 3",
+      "imagen": "./img/pc/silenthill3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-178",
+      "titulo": "Silent Hill 4",
+      "imagen": "./img/pc/silenthill4.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-179",
+      "titulo": "Spiderman 2 ps2",
+      "imagen": "./img/pc/spiderman2ps2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-180",
+      "titulo": "Spiderman Web Shadows",
+      "imagen": "./img/pc/spidermanws.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-181",
+      "titulo": "Splinter  Cell Pandora Tomorrow",
+      "imagen": "./img/pc/SplinterCellPT.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-182",
+      "titulo": "Urban Chaos",
+      "imagen": "./img/pc/UrbanChaos.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-183",
+      "titulo": "World Rally Championship",
+      "imagen": "./img/pc/wrc.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-184",
+      "titulo": "WW II Europa",
+      "imagen": "./img/pc/ww2europa.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-185",
+      "titulo": "WW II Pacifico",
+      "imagen": "./img/pc/ww2pacifico.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-200",
+      "titulo": "007 Goldeneye",
+      "imagen": "./img/pc/goldeneye.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-201",
+      "titulo": "Pokemon Stadium",
+      "imagen": "./img/pc/pokemonstadium.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-202",
+      "titulo": "Pepsiman",
+      "imagen": "./img/pc/132.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-203",
+      "titulo": "Resident Evil 2",
+      "imagen": "./img/pc/46.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-204",
+      "titulo": "Resident Evil 3",
+      "imagen": "./img/pc/47.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-205",
+      "titulo": "Crash Bandicoot",
+      "imagen": "./img/pc/032.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-206",
+      "titulo": "Crash Team Racing",
+      "imagen": "./img/pc/57.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-207",
+      "titulo": "Pokemon",
+      "imagen": "./img/pc/pokemon.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-208",
+      "titulo": "Mario Kart",
+      "imagen": "./img/pc/mario kart.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-209",
+      "titulo": "Driver 2",
+      "imagen": "./img/pc/59.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-210",
+      "titulo": "Medal of Honor Underground",
+      "imagen": "./img/pc/42.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-211",
+      "titulo": "Nascar Rumble",
+      "imagen": "./img/pc/NascarRumble.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-212",
+      "titulo": "PES 2002",
+      "imagen": "./img/pc/PES2002.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-213",
+      "titulo": "Winning Eleven 2002",
+      "imagen": "./img/pc/WinningEleven2002.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-214",
+      "titulo": "Soccer pro 98",
+      "imagen": "./img/pc/pro98.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-215",
+      "titulo": "Resident evil survivor",
+      "imagen": "./img/pc/ResidentEvilSurvivor.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-216",
+      "titulo": "Vigilante 8",
+      "imagen": "./img/pc/Vigilante8.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-217",
+      "titulo": "Vigilante 8 2nd Off",
+      "imagen": "./img/pc/Vigilante82.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-218",
+      "titulo": "Yu-Gi-Oh",
+      "imagen": "./img/pc/yugioh.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-219",
+      "titulo": "Twisted Metal 4",
+      "imagen": "./img/pc/TwistedMetal4.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-220",
+      "titulo": "Dragon Ball GT",
+      "imagen": "./img/pc/DragonBallGT.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-221",
+      "titulo": "Dragon Ball Z.",
+      "imagen": "./img/pc/DragonBallZ.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-222",
+      "titulo": "Metal Slug X",
+      "imagen": "./img/pc/43.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-223",
+      "titulo": "Mortal Kombat Trilogy",
+      "imagen": "./img/pc/112.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-224",
+      "titulo": "Medal of honor",
+      "imagen": "./img/pc/MedalOfHonor.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-225",
+      "titulo": "Mortal Kombat 4",
+      "imagen": "./img/pc/MortalKombat4.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-226",
+      "titulo": "Need for Speed High Stakes",
+      "imagen": "./img/pc/nfshs.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-227",
+      "titulo": "Jackie Chan Stuntmaster",
+      "imagen": "./img/pc/41.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-228",
+      "titulo": "Driver 1",
+      "imagen": "./img/pc/58.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-229",
+      "titulo": "CART World Series",
+      "imagen": "./img/pc/cart.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-230",
+      "titulo": "FIFA 2005",
+      "imagen": "./img/pc/fifa.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-231",
+      "titulo": "Silent Hill",
+      "imagen": "./img/pc/49.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-232",
+      "titulo": "Spider-Man",
+      "imagen": "./img/pc/50.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-233",
+      "titulo": "Coyote Sheep Raider",
+      "imagen": "./img/pc/coyote.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-234",
+      "titulo": "Gran Turismo 2",
+      "imagen": "./img/pc/GT2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-235",
+      "titulo": "Gran Turismo",
+      "imagen": "./img/pc/GT.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-236",
+      "titulo": "Hercules",
+      "imagen": "./img/pc/Hercules.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-237",
+      "titulo": "Soul Reaver",
+      "imagen": "./img/pc/soulreaver.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-238",
+      "titulo": "Spiderman 2",
+      "imagen": "./img/pc/spiderman2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-239",
+      "titulo": "Tarzan",
+      "imagen": "./img/pc/Tarzan.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-240",
+      "titulo": "Toy Story 2",
+      "imagen": "./img/pc/toystory.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-241",
+      "titulo": "Bugs Bunny y Taz",
+      "imagen": "./img/pc/55.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-242",
+      "titulo": "Road Rash Jailbreak",
+      "imagen": "./img/pc/48.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-243",
+      "titulo": "Crash 2",
+      "imagen": "./img/pc/Crash2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-244",
+      "titulo": "Crash 3",
+      "imagen": "./img/pc/Crash3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-245",
+      "titulo": "Digimon",
+      "imagen": "./img/pc/Digimon.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-246",
+      "titulo": "Formula 1 2001",
+      "imagen": "./img/pc/Formula12001.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-247",
+      "titulo": "King Of Fighters 97",
+      "imagen": "./img/pc/KOF97.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-248",
+      "titulo": "Los Simpsons",
+      "imagen": "./img/pc/LosSimsonpPelea.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-249",
+      "titulo": "OddWorld",
+      "imagen": "./img/pc/OddWorld.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-250",
+      "titulo": "Spyro 2",
+      "imagen": "./img/pc/Spyro2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-251",
+      "titulo": "Spyro",
+      "imagen": "./img/pc/Spyro.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-252",
+      "titulo": "Superbike 2000",
+      "imagen": "./img/pc/Superbike2000.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-253",
+      "titulo": "Tekken 3",
+      "imagen": "./img/pc/Tekken3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-254",
+      "titulo": "Tony Hawk 4",
+      "imagen": "./img/pc/TonyHawk4.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-255",
+      "titulo": "Tony Hawk 3",
+      "imagen": "./img/pc/TonyHawk3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-256",
+      "titulo": "Tony Hawk 2",
+      "imagen": "./img/pc/TonyHawk2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-257",
+      "titulo": "Tony Hawk",
+      "imagen": "./img/pc/TonyHawk.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-258",
+      "titulo": "Tomb Raider 3",
+      "imagen": "./img/pc/TombRaider3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-259",
+      "titulo": "BMX",
+      "imagen": "./img/pc/BMX.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-260",
+      "titulo": "Bloody Roar 2",
+      "imagen": "./img/pc/BloodyRoar2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-261",
+      "titulo": "Army Men TA",
+      "imagen": "./img/pc/ArmyMenTA.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-262",
+      "titulo": "Destruction Derby",
+      "imagen": "./img/pc/DestructionDerby.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-263",
+      "titulo": "Duke Nukem",
+      "imagen": "./img/pc/DukeNuke.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-264",
+      "titulo": "King Of Fighters 96",
+      "imagen": "./img/pc/KOF96.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-265",
+      "titulo": "King Of Fighters 95",
+      "imagen": "./img/pc/KOF95.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-266",
+      "titulo": "King Of Fighters 99",
+      "imagen": "./img/pc/KOF99.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-267",
+      "titulo": "Marvel VS Street Fighter.jpg",
+      "imagen": "./img/pc/MarvelVSSF.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-268",
+      "titulo": "Metal Gear ",
+      "imagen": "./img/pc/MetalGear.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-269",
+      "titulo": "Spec Ops Ranger Elite",
+      "imagen": "./img/pc/specops.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-270",
+      "titulo": "Spec Ops Cover Assault",
+      "imagen": "./img/pc/specopsca.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-271",
+      "titulo": "V-Rally 2 Championship",
+      "imagen": "./img/pc/vrally2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-272",
+      "titulo": "Super Mario 64",
+      "imagen": "./img/pc/mario64.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-273",
+      "titulo": "Parasite Eve",
+      "imagen": "./img/pc/parasite.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-274",
+      "titulo": "007 Tomorrow Never Dies",
+      "imagen": "./img/pc/54.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-275",
+      "titulo": "Capcom vs SNK",
+      "imagen": "./img/pc/56.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-276",
+      "titulo": "Harry Potter y la Camara de los Secretos",
+      "imagen": "./img/pc/40.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-277",
+      "titulo": "Harry Potter y la Piedra Filosofal",
+      "imagen": "./img/pc/60.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-278",
+      "titulo": "NASCAR Thunder 2004",
+      "imagen": "./img/pc/44.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-279",
+      "titulo": "Need for Speed Porsche",
+      "imagen": "./img/pc/45.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-280",
+      "titulo": "Syphon Filter",
+      "imagen": "./img/pc/51.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-281",
+      "titulo": "Syphon Filter 3",
+      "imagen": "./img/pc/52.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "URL_DEL_VIDEO_TRAILER"
+    },
+    {
+      "id": "abrigo-282",
+      "titulo": "007 El mundo no basta",
+      "imagen": "./img/pc/007MundoNoBasta.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-283",
+      "titulo": "Ace Combat 3",
+      "imagen": "./img/pc/AceCombat3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-284",
+      "titulo": "Alien",
+      "imagen": "./img/pc/Alien.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-285",
+      "titulo": "Alone in the dark",
+      "imagen": "./img/pc/AloneInTheDark.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-286",
+      "titulo": "Army Men 3d",
+      "imagen": "./img/pc/ArmyMen3D.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-287",
+      "titulo": "Army Men Air Attack",
+      "imagen": "./img/pc/ArmyMenAA.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-288",
+      "titulo": "Army Men Air Attack 2",
+      "imagen": "./img/pc/ArmyMenAA2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-289",
+      "titulo": "Army Men Lock Load",
+      "imagen": "./img/pc/ArmyMenLL.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-290",
+      "titulo": "Army Men Land Sea Air",
+      "imagen": "./img/pc/ArmyMenLSA.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-291",
+      "titulo": "Army Men OM",
+      "imagen": "./img/pc/ArmyMenOM.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-292",
+      "titulo": "Army Men OS",
+      "imagen": "./img/pc/ArmyMenOS.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-293",
+      "titulo": "Army Men SH",
+      "imagen": "./img/pc/ArmyMenSH.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-294",
+      "titulo": "Army Men SH2",
+      "imagen": "./img/pc/ArmyMenSH2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-295",
+      "titulo": "Casper",
+      "imagen": "./img/pc/casper.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-296",
+      "titulo": "Crash Bash ",
+      "imagen": "./img/pc/CrashBash.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-297",
+      "titulo": "Creatures 2",
+      "imagen": "./img/pc/Creatures2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-298",
+      "titulo": "Diablo",
+      "imagen": "./img/pc/Diablo.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-299",
+      "titulo": "Digimon 2003",
+      "imagen": "./img/pc/Digimon2003.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-300",
+      "titulo": "Dino Crisis 1",
+      "imagen": "./img/pc/DinoCrisis1.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-301",
+      "titulo": "Dino Crisis 2",
+      "imagen": "./img/pc/dinocrisis2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-302",
+      "titulo": "Eagle One",
+      "imagen": "./img/pc/EagleOne.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-303",
+      "titulo": "Fear Effect 2",
+      "imagen": "./img/pc/FearEffect2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-304",
+      "titulo": "ISS 2",
+      "imagen": "./img/pc/ISS2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-305",
+      "titulo": "ISS club",
+      "imagen": "./img/pc/ISSclub.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-306",
+      "titulo": "Star Wars Jedi",
+      "imagen": "./img/pc/Jedi.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-307",
+      "titulo": "Le Mans 24 hours",
+      "imagen": "./img/pc/LeMans.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-308",
+      "titulo": "Guerra de Marranos",
+      "imagen": "./img/pc/Marranos.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-309",
+      "titulo": "Mision Imposible",
+      "imagen": "./img/pc/MisionImposible.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-310",
+      "titulo": "Monster Inc",
+      "imagen": "./img/pc/MonsterINC.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-311",
+      "titulo": "Parasite Eve 2",
+      "imagen": "./img/pc/ParasiteEve2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-312",
+      "titulo": "Police Chases",
+      "imagen": "./img/pc/PoliceChases.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-313",
+      "titulo": "Quinto Elemento",
+      "imagen": "./img/pc/QuintoElemento.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-314",
+      "titulo": "Collin Mc Crae Rally",
+      "imagen": "./img/pc/rallycm.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-315",
+      "titulo": "Rayman",
+      "imagen": "./img/pc/Rayman.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-316",
+      "titulo": "Rayman 2",
+      "imagen": "./img/pc/Rayman2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-317",
+      "titulo": "Resident Evil Directors cut",
+      "imagen": "./img/pc/ResidentEvilDC.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-318",
+      "titulo": "Samurai Shodown",
+      "imagen": "./img/pc/Samurai.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-319",
+      "titulo": "Star Wars",
+      "imagen": "./img/pc/StarWars.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-320",
+      "titulo": "Street fighter",
+      "imagen": "./img/pc/streetfighter.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-321",
+      "titulo": "Street fighter Alpha 3",
+      "imagen": "./img/pc/streetfighterAlpha3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-322",
+      "titulo": "Syphon Filter 2",
+      "imagen": "./img/pc/SyphonFilter2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-323",
+      "titulo": "Test Drive 6",
+      "imagen": "./img/pc/TestDrive6.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-324",
+      "titulo": "TOCA",
+      "imagen": "./img/pc/TOCA.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-325",
+      "titulo": "Tomb Raider 2",
+      "imagen": "./img/pc/TombRaider2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-326",
+      "titulo": "Toy story racer",
+      "imagen": "./img/pc/toystoryracer.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-327",
+      "titulo": "Twisted Metal",
+      "imagen": "./img/pc/TwistedMetal.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-328",
+      "titulo": "Twisted Metal 2",
+      "imagen": "./img/pc/Twistedmetal2.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-329",
+      "titulo": "Twisted Metal 3",
+      "imagen": "./img/pc/TwistedMetal3.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-330",
+      "titulo": "Vampire Hunter",
+      "imagen": "./img/pc/VampireHunter.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-331",
+      "titulo": "Xmen VS Street Fighter",
+      "imagen": "./img/pc/XMenVSSF.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PCbaja"
+      },
+      "precio": 7000,
+      "trailer": "pendiente"
+    },
+    {
+      "id": "abrigo-332",
+      "titulo": "Acceso a todo el catálogo",
+      "imagen": "./img/pc/todos.jpg",
+      "categoria": {
+        "nombre": "Bajos requisitos",
+        "id": "PC"
+      },
+      "precio": 30000,
+      "trailer": "pendiente"
+    }
+  ]
