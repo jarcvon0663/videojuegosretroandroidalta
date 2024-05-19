@@ -15,3 +15,5 @@ Se actualizó la página basandome en los cambios realizados a menos de 6gb, se 
 13 de mayo 2024 se cargan las imágenes de nuevos juegos para un catálogo total de 217 juegos incluidos PS2 y PS1
 
 19 de mayo 2024, se añade un pop up para ver los videotrailers.
+
+Se intenta reparar cargando todo desde el desktop, el error es que en  lo cal si aparece el popup con el video trailer, pero en producción me redirige a la página de youtube
