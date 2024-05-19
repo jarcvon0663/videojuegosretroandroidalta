@@ -22,6 +22,7 @@ botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
 
 function cargarProductos(productosElegidos) {
 
+    const contenedorProductos = document.getElementById("contenedor-productos");
     contenedorProductos.innerHTML = "";
 
     productosElegidos.forEach(producto => {
@@ -42,7 +43,49 @@ function cargarProductos(productosElegidos) {
     })
 
     actualizarBotonesAgregar();
+
+    // Actualiza los botones para abrir el pop-up
+    const trailerLinks = document.querySelectorAll(".producto-trailer");
+    trailerLinks.forEach(link => {
+        link.addEventListener("click", function(event) {
+            event.preventDefault();
+            const videoUrl = this.href;
+            const videoId = getYoutubeVideoId(videoUrl);
+            const embedUrl = `https://www.youtube.com/embed/${videoId}`;
+            const popup = document.getElementById("popup-trailer");
+            const popupVideo = document.getElementById("popup-video");
+            popupVideo.src = embedUrl;
+            popup.style.display = "block";
+        });
+    });
+
+    // Cierra el pop-up
+    const popupClose = document.querySelector(".popup-close");
+    popupClose.addEventListener("click", function() {
+        const popup = document.getElementById("popup-trailer");
+        const popupVideo = document.getElementById("popup-video");
+        popup.style.display = "none";
+        popupVideo.src = "";
+    });
 }
+
+function getYoutubeVideoId(url) {
+    const urlObj = new URL(url);
+    if (urlObj.hostname === 'youtu.be') {
+        return urlObj.pathname.slice(1);
+    } else {
+        return urlObj.searchParams.get('v');
+    }
+}
+
+window.addEventListener("click", function(event) {
+    const popup = document.getElementById("popup-trailer");
+    if (event.target == popup) {
+        popup.style.display = "none";
+        const popupVideo = document.getElementById("popup-video");
+        popupVideo.src = "";
+    }
+});
 
 
 botonesCategorias.forEach(boton => {
